@@ -43,7 +43,6 @@ The pipeline includes:
 1. Clone the repo  
 2. Set up Jenkins with required tools (Node.js, JDK, SonarQube scanner)  
 3. Configure Docker and SonarQube credentials  
-4. Run the pipeline and view reports in Jenkins artifacts
 
 ## 📁 Reports
 
